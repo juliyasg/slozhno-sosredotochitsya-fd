@@ -24,7 +24,7 @@
   /* Вам также нужно будет написать ряд подобных селекторов */
 }
 
-.header__rec {
+.theme-light .header__rec {
   display: none;
 }
 
