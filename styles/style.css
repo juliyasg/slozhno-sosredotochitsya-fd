@@ -73,6 +73,7 @@
   font-size: var(--mobile-title-text-size);
   color: var(--title-text-color);
   font-family: inherit;
+  text-transform: lowercase;
   text-shadow: 4px 4px 0 var(--accent-color);
   line-height: 0.82;
   justify-self: start;
@@ -280,6 +281,7 @@
   font-size: var(--mobile-title-text-size);
   color: var(--title-text-color);
   text-shadow: 2px 2px 0 #FF0070;
+  text-transform: lowercase;
 }
 
 @media (width >= 768px) {
