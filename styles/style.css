@@ -157,7 +157,7 @@
 }
 
 .section__why {
-  margin-block-start: 40px;
+  margin-block-start: 42px;
 }
 
 .section__title {
@@ -244,7 +244,7 @@
   display: grid;
   grid-template-columns: 1fr;
   gap: 10px;
-  margin-block-start: -9px;
+  margin-block-start: -10px;
 }
 
 .image__item {
@@ -330,11 +330,7 @@
   /* ВТОРАЯ СЕКЦИЯ */
 
   .section__what {
-    margin-block-start: 81px;
-  }
-
-  .card__title-what {
-    margin: 0 0 11px;
+    margin-block-start: 80px;
   }
 
   /* ТРЕТЬЯ СЕКЦИЯ */
@@ -352,7 +348,7 @@
   /* ЧЕТВЕРТАЯ СЕКЦИЯ С КАРТИНКАМИ */
 
   .section__images {
-    margin-block-start: 80px;
+    margin-block-start: 82px;
   }
 
   .images__list {
@@ -478,12 +474,12 @@
   .section__how {
     display: grid;
     grid-template-columns: max-content 1fr;
-    margin-block-start: 80px;
+    margin-block-start: 81px;
   }
   
   .section__how-content {
     display: grid;
-    gap: 9px;
+    gap: 10px;
   }
 
   /* ЧЕТВЕРТАЯ СЕКЦИЯ С КАРТИНКАМИ */
