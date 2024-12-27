@@ -453,11 +453,6 @@
     max-width: 315px;
   }
 
-  .section__what-cards {
-    display: flex;
-    gap: 21px;
-  }
-
   /* ВТОРАЯ СЕКЦИЯ */
 
   .section__what {
@@ -466,6 +461,8 @@
   }
 
   .section__what-cards {
+    display: flex;
+    gap: 21px;
     align-self: center;
   }
   
