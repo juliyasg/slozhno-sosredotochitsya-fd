@@ -238,14 +238,13 @@
 
 .section__images {
   margin-block-start: 51px;
+  gap: 10px;
 }
-
 
 .images__list {
   display: grid;
   grid-template-columns: 1fr;
   gap: 10px;
-  transform: translateY(-10px);
 }
 
 .image__item {
@@ -260,7 +259,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-block-start: 30px;
+  margin-block-start: 40px;
   position: relative;
   min-block-size: 668px;
   block-size: 100vh;
@@ -395,7 +394,7 @@
   /* СЕКЦИЯ С ФУТЕРОМ */
 
   .footer {
-    margin-block-start: 50px;
+    margin-block-start: 60px;
   }
 
   .footer__title {
@@ -493,6 +492,6 @@
   /* СЕКЦИЯ С ФУТЕРОМ */
 
   .footer {
-    margin-block-start: 51px;
+    margin-block-start: 61px;
   }
 }
